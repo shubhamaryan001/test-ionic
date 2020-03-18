@@ -1,0 +1,7 @@
+{
+  "name": "Olx-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
